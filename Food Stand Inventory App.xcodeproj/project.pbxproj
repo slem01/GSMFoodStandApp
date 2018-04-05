@@ -7,8 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		814BC2A32075CECB00E1BDF3 /* ViewDataButton.png in Resources */ = {isa = PBXBuildFile; fileRef = 814BC2A22075CECB00E1BDF3 /* ViewDataButton.png */; };
-		814BC2A52075CED400E1BDF3 /* StartSaleSession.png in Resources */ = {isa = PBXBuildFile; fileRef = 814BC2A42075CED400E1BDF3 /* StartSaleSession.png */; };
 		D5520EF12075A89F002A4D3D /* StartSellingController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D5520EF02075A89F002A4D3D /* StartSellingController.swift */; };
 		D5520EFD2075C863002A4D3D /* gsmWave.png in Resources */ = {isa = PBXBuildFile; fileRef = D5520EFC2075C863002A4D3D /* gsmWave.png */; };
 		D5520EFF2075C895002A4D3D /* gsms.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D5520EFE2075C895002A4D3D /* gsms.jpg */; };
@@ -18,6 +16,13 @@
 		D5520F072075D27A002A4D3D /* kale.png in Resources */ = {isa = PBXBuildFile; fileRef = D5520F062075D27A002A4D3D /* kale.png */; };
 		D5520F092075D284002A4D3D /* carrots.png in Resources */ = {isa = PBXBuildFile; fileRef = D5520F082075D284002A4D3D /* carrots.png */; };
 		D5520F0B2075D29F002A4D3D /* garlic.png in Resources */ = {isa = PBXBuildFile; fileRef = D5520F0A2075D29F002A4D3D /* garlic.png */; };
+		D5520F0E2075E265002A4D3D /* upcdl.ttf in Resources */ = {isa = PBXBuildFile; fileRef = D5520F0D2075E265002A4D3D /* upcdl.ttf */; };
+		D5520F102075E6E7002A4D3D /* garlic2.png in Resources */ = {isa = PBXBuildFile; fileRef = D5520F0F2075E6E7002A4D3D /* garlic2.png */; };
+		D5520F122075E7F3002A4D3D /* tomato2.png in Resources */ = {isa = PBXBuildFile; fileRef = D5520F112075E7F3002A4D3D /* tomato2.png */; };
+		D5520F142075E823002A4D3D /* carrots2.png in Resources */ = {isa = PBXBuildFile; fileRef = D5520F132075E823002A4D3D /* carrots2.png */; };
+		D5520F162075E86C002A4D3D /* greenbeans2.png in Resources */ = {isa = PBXBuildFile; fileRef = D5520F152075E86C002A4D3D /* greenbeans2.png */; };
+		D5520F182075E872002A4D3D /* apple2.png in Resources */ = {isa = PBXBuildFile; fileRef = D5520F172075E872002A4D3D /* apple2.png */; };
+		D5520F1A2075E953002A4D3D /* broccoli2.png in Resources */ = {isa = PBXBuildFile; fileRef = D5520F192075E953002A4D3D /* broccoli2.png */; };
 		D568980C20759FD4001D29E7 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D568980B20759FD4001D29E7 /* AppDelegate.swift */; };
 		D568980E20759FD4001D29E7 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D568980D20759FD4001D29E7 /* ViewController.swift */; };
 		D568981120759FD4001D29E7 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D568980F20759FD4001D29E7 /* Main.storyboard */; };
@@ -37,8 +42,6 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		814BC2A22075CECB00E1BDF3 /* ViewDataButton.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ViewDataButton.png; sourceTree = "<group>"; };
-		814BC2A42075CED400E1BDF3 /* StartSaleSession.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = StartSaleSession.png; sourceTree = "<group>"; };
 		D5520EF02075A89F002A4D3D /* StartSellingController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = StartSellingController.swift; sourceTree = "<group>"; };
 		D5520EFC2075C863002A4D3D /* gsmWave.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = gsmWave.png; sourceTree = "<group>"; };
 		D5520EFE2075C895002A4D3D /* gsms.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = gsms.jpg; sourceTree = "<group>"; };
@@ -48,6 +51,13 @@
 		D5520F062075D27A002A4D3D /* kale.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = kale.png; sourceTree = "<group>"; };
 		D5520F082075D284002A4D3D /* carrots.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = carrots.png; sourceTree = "<group>"; };
 		D5520F0A2075D29F002A4D3D /* garlic.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = garlic.png; sourceTree = "<group>"; };
+		D5520F0D2075E265002A4D3D /* upcdl.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = upcdl.ttf; sourceTree = "<group>"; };
+		D5520F0F2075E6E7002A4D3D /* garlic2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = garlic2.png; sourceTree = "<group>"; };
+		D5520F112075E7F3002A4D3D /* tomato2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = tomato2.png; sourceTree = "<group>"; };
+		D5520F132075E823002A4D3D /* carrots2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = carrots2.png; sourceTree = "<group>"; };
+		D5520F152075E86C002A4D3D /* greenbeans2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = greenbeans2.png; sourceTree = "<group>"; };
+		D5520F172075E872002A4D3D /* apple2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = apple2.png; sourceTree = "<group>"; };
+		D5520F192075E953002A4D3D /* broccoli2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = broccoli2.png; sourceTree = "<group>"; };
 		D568980820759FD4001D29E7 /* Food Stand Inventory App.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Food Stand Inventory App.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		D568980B20759FD4001D29E7 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		D568980D20759FD4001D29E7 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -81,6 +91,12 @@
 		D5520EED2075A098002A4D3D /* Images */ = {
 			isa = PBXGroup;
 			children = (
+				D5520F192075E953002A4D3D /* broccoli2.png */,
+				D5520F172075E872002A4D3D /* apple2.png */,
+				D5520F152075E86C002A4D3D /* greenbeans2.png */,
+				D5520F132075E823002A4D3D /* carrots2.png */,
+				D5520F112075E7F3002A4D3D /* tomato2.png */,
+				D5520F0F2075E6E7002A4D3D /* garlic2.png */,
 				D5520F002075D24B002A4D3D /* potato.png */,
 				D5520F022075D25C002A4D3D /* broccoli.png */,
 				D5520F042075D266002A4D3D /* tomato.png */,
@@ -92,6 +108,14 @@
 			);
 			name = Images;
 			path = ..;
+			sourceTree = "<group>";
+		};
+		D5520F0C2075E253002A4D3D /* fonts */ = {
+			isa = PBXGroup;
+			children = (
+				D5520F0D2075E265002A4D3D /* upcdl.ttf */,
+			);
+			name = fonts;
 			sourceTree = "<group>";
 		};
 		D56897FF20759FD4001D29E7 = {
@@ -115,6 +139,7 @@
 		D568980A20759FD4001D29E7 /* Food Stand Inventory App */ = {
 			isa = PBXGroup;
 			children = (
+				D5520F0C2075E253002A4D3D /* fonts */,
 				D5520EED2075A098002A4D3D /* Images */,
 				D568980B20759FD4001D29E7 /* AppDelegate.swift */,
 				D568980D20759FD4001D29E7 /* ViewController.swift */,
@@ -220,6 +245,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				D5520F012075D24B002A4D3D /* potato.png in Resources */,
+				D5520F1A2075E953002A4D3D /* broccoli2.png in Resources */,
 				D5520F052075D266002A4D3D /* tomato.png in Resources */,
 				D5520F072075D27A002A4D3D /* kale.png in Resources */,
 				D568981620759FD4001D29E7 /* LaunchScreen.storyboard in Resources */,
@@ -227,8 +253,14 @@
 				D5520F032075D25C002A4D3D /* broccoli.png in Resources */,
 				D5520F092075D284002A4D3D /* carrots.png in Resources */,
 				D568981320759FD4001D29E7 /* Assets.xcassets in Resources */,
+				D5520F142075E823002A4D3D /* carrots2.png in Resources */,
 				D568981120759FD4001D29E7 /* Main.storyboard in Resources */,
+				D5520F0E2075E265002A4D3D /* upcdl.ttf in Resources */,
+				D5520F182075E872002A4D3D /* apple2.png in Resources */,
 				D5520F0B2075D29F002A4D3D /* garlic.png in Resources */,
+				D5520F102075E6E7002A4D3D /* garlic2.png in Resources */,
+				D5520F122075E7F3002A4D3D /* tomato2.png in Resources */,
+				D5520F162075E86C002A4D3D /* greenbeans2.png in Resources */,
 				D5520EFD2075C863002A4D3D /* gsmWave.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
