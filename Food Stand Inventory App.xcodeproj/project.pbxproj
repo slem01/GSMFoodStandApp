@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		814BC2A32075CECB00E1BDF3 /* ViewDataButton.png in Resources */ = {isa = PBXBuildFile; fileRef = 814BC2A22075CECB00E1BDF3 /* ViewDataButton.png */; };
+		814BC2A52075CED400E1BDF3 /* StartSaleSession.png in Resources */ = {isa = PBXBuildFile; fileRef = 814BC2A42075CED400E1BDF3 /* StartSaleSession.png */; };
 		D5520EF12075A89F002A4D3D /* StartSellingController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D5520EF02075A89F002A4D3D /* StartSellingController.swift */; };
 		D5520EFD2075C863002A4D3D /* gsmWave.png in Resources */ = {isa = PBXBuildFile; fileRef = D5520EFC2075C863002A4D3D /* gsmWave.png */; };
 		D5520EFF2075C895002A4D3D /* gsms.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D5520EFE2075C895002A4D3D /* gsms.jpg */; };
@@ -35,6 +37,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		814BC2A22075CECB00E1BDF3 /* ViewDataButton.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ViewDataButton.png; sourceTree = "<group>"; };
+		814BC2A42075CED400E1BDF3 /* StartSaleSession.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = StartSaleSession.png; sourceTree = "<group>"; };
 		D5520EF02075A89F002A4D3D /* StartSellingController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = StartSellingController.swift; sourceTree = "<group>"; };
 		D5520EFC2075C863002A4D3D /* gsmWave.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = gsmWave.png; sourceTree = "<group>"; };
 		D5520EFE2075C895002A4D3D /* gsms.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = gsms.jpg; sourceTree = "<group>"; };
