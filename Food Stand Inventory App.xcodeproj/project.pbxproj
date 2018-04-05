@@ -7,6 +7,9 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		D5520EEF2075A246002A4D3D /* gsms.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D5520EEE2075A246002A4D3D /* gsms.jpg */; };
+		D5520EF12075A89F002A4D3D /* StartSellingController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D5520EF02075A89F002A4D3D /* StartSellingController.swift */; };
+		D5520EF72075ACF1002A4D3D /* gsmWave.png in Resources */ = {isa = PBXBuildFile; fileRef = D5520EF62075ACF1002A4D3D /* gsmWave.png */; };
 		D568980C20759FD4001D29E7 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D568980B20759FD4001D29E7 /* AppDelegate.swift */; };
 		D568980E20759FD4001D29E7 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D568980D20759FD4001D29E7 /* ViewController.swift */; };
 		D568981120759FD4001D29E7 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D568980F20759FD4001D29E7 /* Main.storyboard */; };
@@ -26,6 +29,9 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		D5520EEE2075A246002A4D3D /* gsms.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = gsms.jpg; path = ../../../gsms.jpg; sourceTree = "<group>"; };
+		D5520EF02075A89F002A4D3D /* StartSellingController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = StartSellingController.swift; sourceTree = "<group>"; };
+		D5520EF62075ACF1002A4D3D /* gsmWave.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = gsmWave.png; path = ../../../gsmWave.png; sourceTree = "<group>"; };
 		D568980820759FD4001D29E7 /* Food Stand Inventory App.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Food Stand Inventory App.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		D568980B20759FD4001D29E7 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		D568980D20759FD4001D29E7 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -56,9 +62,19 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		D5520EED2075A098002A4D3D /* Images */ = {
+			isa = PBXGroup;
+			children = (
+				D5520EF62075ACF1002A4D3D /* gsmWave.png */,
+				D5520EEE2075A246002A4D3D /* gsms.jpg */,
+			);
+			name = Images;
+			sourceTree = "<group>";
+		};
 		D56897FF20759FD4001D29E7 = {
 			isa = PBXGroup;
 			children = (
+				D5520EED2075A098002A4D3D /* Images */,
 				D568980A20759FD4001D29E7 /* Food Stand Inventory App */,
 				D568981F20759FD4001D29E7 /* Food Stand Inventory AppTests */,
 				D568980920759FD4001D29E7 /* Products */,
@@ -80,6 +96,7 @@
 				D568980B20759FD4001D29E7 /* AppDelegate.swift */,
 				D568980D20759FD4001D29E7 /* ViewController.swift */,
 				D568980F20759FD4001D29E7 /* Main.storyboard */,
+				D5520EF02075A89F002A4D3D /* StartSellingController.swift */,
 				D568981220759FD4001D29E7 /* Assets.xcassets */,
 				D568981420759FD4001D29E7 /* LaunchScreen.storyboard */,
 				D568981720759FD4001D29E7 /* Info.plist */,
@@ -180,8 +197,10 @@
 			buildActionMask = 2147483647;
 			files = (
 				D568981620759FD4001D29E7 /* LaunchScreen.storyboard in Resources */,
+				D5520EEF2075A246002A4D3D /* gsms.jpg in Resources */,
 				D568981320759FD4001D29E7 /* Assets.xcassets in Resources */,
 				D568981120759FD4001D29E7 /* Main.storyboard in Resources */,
+				D5520EF72075ACF1002A4D3D /* gsmWave.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -200,6 +219,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				D568980E20759FD4001D29E7 /* ViewController.swift in Sources */,
+				D5520EF12075A89F002A4D3D /* StartSellingController.swift in Sources */,
 				D568980C20759FD4001D29E7 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -406,6 +426,7 @@
 				D568982720759FD4001D29E7 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		D568982820759FD4001D29E7 /* Build configuration list for PBXNativeTarget "Food Stand Inventory AppTests" */ = {
 			isa = XCConfigurationList;
@@ -414,6 +435,7 @@
 				D568982A20759FD4001D29E7 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
