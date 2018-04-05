@@ -32,7 +32,7 @@
                                 <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                             </imageView>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" hasAttributedTitle="YES" translatesAutoresizingMaskIntoConstraints="NO" id="i4v-4g-Z0K">
-                                <rect key="frame" x="538" y="279" width="315" height="296"/>
+                                <rect key="frame" x="535" y="279" width="310" height="296"/>
                                 <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                                 <state key="normal" image="pastsales.png">
                                     <attributedString key="attributedTitle">
@@ -45,7 +45,7 @@
                                 </state>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" restorationIdentifier="SalesButton" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" hasAttributedTitle="YES" translatesAutoresizingMaskIntoConstraints="NO" id="MnM-DO-kgP">
-                                <rect key="frame" x="161" y="279" width="310" height="296"/>
+                                <rect key="frame" x="172" y="279" width="310" height="296"/>
                                 <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                                 <state key="normal" image="startselling.png">
                                     <attributedString key="attributedTitle">
@@ -264,7 +264,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="Y0E-nz-XJ9" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="628" y="-702"/>
+            <point key="canvasLocation" x="627.5390625" y="-702.34375"/>
         </scene>
     </scenes>
     <resources>
