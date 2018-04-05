@@ -69,12 +69,12 @@
 				D5520EEE2075A246002A4D3D /* gsms.jpg */,
 			);
 			name = Images;
+			path = ..;
 			sourceTree = "<group>";
 		};
 		D56897FF20759FD4001D29E7 = {
 			isa = PBXGroup;
 			children = (
-				D5520EED2075A098002A4D3D /* Images */,
 				D568980A20759FD4001D29E7 /* Food Stand Inventory App */,
 				D568981F20759FD4001D29E7 /* Food Stand Inventory AppTests */,
 				D568980920759FD4001D29E7 /* Products */,
@@ -93,6 +93,7 @@
 		D568980A20759FD4001D29E7 /* Food Stand Inventory App */ = {
 			isa = PBXGroup;
 			children = (
+				D5520EED2075A098002A4D3D /* Images */,
 				D568980B20759FD4001D29E7 /* AppDelegate.swift */,
 				D568980D20759FD4001D29E7 /* ViewController.swift */,
 				D568980F20759FD4001D29E7 /* Main.storyboard */,
