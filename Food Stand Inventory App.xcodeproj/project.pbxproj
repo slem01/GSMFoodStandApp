@@ -23,6 +23,9 @@
 		D5520F162075E86C002A4D3D /* greenbeans2.png in Resources */ = {isa = PBXBuildFile; fileRef = D5520F152075E86C002A4D3D /* greenbeans2.png */; };
 		D5520F182075E872002A4D3D /* apple2.png in Resources */ = {isa = PBXBuildFile; fileRef = D5520F172075E872002A4D3D /* apple2.png */; };
 		D5520F1A2075E953002A4D3D /* broccoli2.png in Resources */ = {isa = PBXBuildFile; fileRef = D5520F192075E953002A4D3D /* broccoli2.png */; };
+		D5520F1C20765D2B002A4D3D /* welcome.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D5520F1B20765D2B002A4D3D /* welcome.jpg */; };
+		D5520F1E20765D7E002A4D3D /* startselling.png in Resources */ = {isa = PBXBuildFile; fileRef = D5520F1D20765D7E002A4D3D /* startselling.png */; };
+		D5520F2020765D85002A4D3D /* pastsales.png in Resources */ = {isa = PBXBuildFile; fileRef = D5520F1F20765D85002A4D3D /* pastsales.png */; };
 		D568980C20759FD4001D29E7 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D568980B20759FD4001D29E7 /* AppDelegate.swift */; };
 		D568980E20759FD4001D29E7 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D568980D20759FD4001D29E7 /* ViewController.swift */; };
 		D568981120759FD4001D29E7 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D568980F20759FD4001D29E7 /* Main.storyboard */; };
@@ -58,6 +61,9 @@
 		D5520F152075E86C002A4D3D /* greenbeans2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = greenbeans2.png; sourceTree = "<group>"; };
 		D5520F172075E872002A4D3D /* apple2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = apple2.png; sourceTree = "<group>"; };
 		D5520F192075E953002A4D3D /* broccoli2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = broccoli2.png; sourceTree = "<group>"; };
+		D5520F1B20765D2B002A4D3D /* welcome.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = welcome.jpg; sourceTree = "<group>"; };
+		D5520F1D20765D7E002A4D3D /* startselling.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = startselling.png; sourceTree = "<group>"; };
+		D5520F1F20765D85002A4D3D /* pastsales.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = pastsales.png; sourceTree = "<group>"; };
 		D568980820759FD4001D29E7 /* Food Stand Inventory App.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Food Stand Inventory App.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		D568980B20759FD4001D29E7 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		D568980D20759FD4001D29E7 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -91,6 +97,9 @@
 		D5520EED2075A098002A4D3D /* Images */ = {
 			isa = PBXGroup;
 			children = (
+				D5520F1D20765D7E002A4D3D /* startselling.png */,
+				D5520F1F20765D85002A4D3D /* pastsales.png */,
+				D5520F1B20765D2B002A4D3D /* welcome.jpg */,
 				D5520F192075E953002A4D3D /* broccoli2.png */,
 				D5520F172075E872002A4D3D /* apple2.png */,
 				D5520F152075E86C002A4D3D /* greenbeans2.png */,
@@ -251,7 +260,9 @@
 				D568981620759FD4001D29E7 /* LaunchScreen.storyboard in Resources */,
 				D5520EFF2075C895002A4D3D /* gsms.jpg in Resources */,
 				D5520F032075D25C002A4D3D /* broccoli.png in Resources */,
+				D5520F1E20765D7E002A4D3D /* startselling.png in Resources */,
 				D5520F092075D284002A4D3D /* carrots.png in Resources */,
+				D5520F2020765D85002A4D3D /* pastsales.png in Resources */,
 				D568981320759FD4001D29E7 /* Assets.xcassets in Resources */,
 				D5520F142075E823002A4D3D /* carrots2.png in Resources */,
 				D568981120759FD4001D29E7 /* Main.storyboard in Resources */,
@@ -259,6 +270,7 @@
 				D5520F182075E872002A4D3D /* apple2.png in Resources */,
 				D5520F0B2075D29F002A4D3D /* garlic.png in Resources */,
 				D5520F102075E6E7002A4D3D /* garlic2.png in Resources */,
+				D5520F1C20765D2B002A4D3D /* welcome.jpg in Resources */,
 				D5520F122075E7F3002A4D3D /* tomato2.png in Resources */,
 				D5520F162075E86C002A4D3D /* greenbeans2.png in Resources */,
 				D5520EFD2075C863002A4D3D /* gsmWave.png in Resources */,
